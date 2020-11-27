@@ -1,10 +1,10 @@
 ---
 
 # CPU
-tidb_min_cpu: 8
-tikv_min_cpu: 8
-pd_min_cpu: 4
-monitor_min_cpu: 4
+tidb_min_cpu: 1
+tikv_min_cpu: 1
+pd_min_cpu: 1
+monitor_min_cpu: 1
 
 # Mem
 tidb_min_ram: 16000
